@@ -1,0 +1,5 @@
+# Korisnici - format: username:password:researcherId
+# researcherId = -1 means no researcher assigned
+mita:123:1
+krizz:123:51
+eksterni:eksterni123:-1
